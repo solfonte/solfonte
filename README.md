@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Sol 👋
 
 <!--
 **solfonte/solfonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 How to reach me: 
+- [LinkedIn] (https://www.linkedin.com/in/maria-sol-fontenla-ab0514213/)
