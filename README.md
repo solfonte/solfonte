@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📫 How to reach me: 
-- [LinkedIn]:(https://www.linkedin.com/in/maria-sol-fontenla-ab0514213/)
+- [LinkedIn](https://www.linkedin.com/in/maria-sol-fontenla-ab0514213/)
