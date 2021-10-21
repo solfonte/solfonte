@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Sol's GitHub stats](https://github-readme-stats.vercel.app/api?username=solfonte)
+![Sol's GitHub stats](https://github-readme-stats.vercel.app/api?username=solfonte&show_icons=true&theme=dracula)
 
 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/maria-sol-fontenla-ab0514213/)
